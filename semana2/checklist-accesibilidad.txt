@@ -1,11 +1,11 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Maria del Mar Granda
+Fecha: 27 de abril del 2026
+Nombre de la rama:maria_granda
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:si, ya que el título permite entender que el formulario sirve para recoger propuesta o ideas para la comunidad.
 
 2. ¿El formulario explica para qué se usará la información?
 Respuesta:
@@ -23,10 +23,10 @@ Respuesta:
 Respuesta:
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Si, tiene un checlist que me informa el fin con que ingreso la informacion en el formulario.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:si, tiene un nombre relacionado con el envío de la información de participación con las propuestas de la comunidad.
 
 9. ¿La página se puede leer con facilidad?
 Respuesta:
